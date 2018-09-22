@@ -1,0 +1,19 @@
+#display {
+  min-height: 3rem;
+  color: black;
+  background-color: #ffd1dc;
+  border-radius: 0.3rem;
+}
+#drum-machine {
+  width: 25rem;
+}
+.on {
+  background-color: #F853BB !important;
+  box-shadow: inset 0px 0px 100px !important;
+}
+.drum-pad {
+  background-color: #ffd1dc;
+}
+.btn:focus {
+  box-shadow: none;
+}
