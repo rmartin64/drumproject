@@ -1,3 +1,5 @@
+Click on the drum buttons or press their associated keyboard button in order to play drum samples.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
